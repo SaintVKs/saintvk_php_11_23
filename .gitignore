@@ -1,3 +1,4 @@
 .idea
-Agent
+composer.json
+composer.lock
 /vendor/

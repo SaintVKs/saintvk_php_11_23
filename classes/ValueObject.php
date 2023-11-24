@@ -1,5 +1,4 @@
 <?php
-require_once __DIR__ . '/../vendor/autoload.php';
 class ValueObject {
     private int $red;
     private int $green;
